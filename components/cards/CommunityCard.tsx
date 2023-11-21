@@ -71,3 +71,18 @@ function CommunityCard({ id, name, username, imgUrl, bio, members }: Props) {
 }
 
 export default CommunityCard;
+
+
+// NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bG9naWNhbC1yZWRmaXNoLTQ5LmNsZXJrLmFjY291bnRzLmRldiQ
+// CLERK_SECRET_KEY=sk_test_BF3UxHC2A5a1tCFan8w1xGL03hWYZl5IhTmWMv6XqG
+
+// NEXT_CLERK_WEBHOOK_SECRET=whsec_TzIrViOOgG0w78d4QNOjfB7FM+j9iFbE
+// NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+// NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+// NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+// NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+// MONGODB_URL=mongodb+srv://sjshubham1995:mlSXcmU4Vj8pepcK@cluster0.ccboded.mongodb.net/?retryWrites=true&w=majority
+
+// UPLOADTHING_SECRET=sk_live_1061220c5554f8adbca514cc78a0b1b9c0b660ba5e85bb9413085837d999f74f
+// UPLOADTHING_APP_ID=xrgbht0vea
